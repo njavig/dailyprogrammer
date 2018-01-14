@@ -6,7 +6,7 @@ part 2. provide an equation
 part 3. put every possible cases into 2
 
 I tried to do it with what I already know at first,
-but that seems above my capacity...
+but that seems beyond my capacity...
 so I seek some help via googling.
 
 TBH time amount is a pain in the arse but I decided to be satisfied
